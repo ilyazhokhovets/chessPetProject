@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd8f6cde-1421-48f8-b497-4ac4a7c60bbb" name="Default Changelist" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/chess-vue/src/components/Socket.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chess-vue/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/chess-vue/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chess-vue/src/components/Board.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chess-vue/src/components/MyForm.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chess-vue/src/components/Nav.vue" beforeDir="false" afterPath="$PROJECT_DIR$/chess-vue/src/components/Settings.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chess-vue/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/chess-vue/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chess-vue/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/chess-vue/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chess-vue/src/views/HomeView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/chess-vue/src/views/HomeView.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/chess-vue" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2LNfP1WExLEAE7e9koMab7W4M1C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chess-vue/public" />
+      <recent name="$PROJECT_DIR$/chess-vue/src" />
+      <recent name="$PROJECT_DIR$/chess-vue/src/components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chess-vue/src/assets" />
+      <recent name="$PROJECT_DIR$/chess-vue/public" />
+      <recent name="$PROJECT_DIR$/chess-vue/src/components" />
+      <recent name="$PROJECT_DIR$/chess-vue/src/public" />
+      <recent name="$PROJECT_DIR$/chess-vue/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="serve" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/chess-vue/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd8f6cde-1421-48f8-b497-4ac4a7c60bbb" name="Default Changelist" comment="" />
+      <created>1675716432894</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675716432894</updated>
+      <workItem from="1675716444277" duration="3550000" />
+      <workItem from="1675720960128" duration="10208000" />
+      <workItem from="1675785150175" duration="50227000" />
+      <workItem from="1676316868428" duration="596000" />
+      <workItem from="1678492339336" duration="77981000" />
+      <workItem from="1679831079236" duration="675000" />
+      <workItem from="1679870441390" duration="19976000" />
+      <workItem from="1680285824433" duration="595000" />
+      <workItem from="1680301107706" duration="56250000" />
+      <workItem from="1681404030251" duration="300000" />
+      <workItem from="1681404359622" duration="2073000" />
+      <workItem from="1681491110693" duration="597000" />
+      <workItem from="1681897347902" duration="537000" />
+      <workItem from="1681897921421" duration="1000" />
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1679359462361</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679359462361</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1679359702233</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679359702233</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initial commit">
+      <created>1679360142899</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679360142899</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <MESSAGE value="initial commit1" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+</project>
