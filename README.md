@@ -1,3 +1,1 @@
-# vue-chess
-# chessPetProject
-# chessPetProject
+DRF + VueJs
